@@ -20,4 +20,9 @@
  ## Deploy: https://gustavovitors.github.io/Memory-Game/
  ##
  
+ # VIGU Sinuca Arena 🎱
+  ## Repository:https://github.com/GustavoVitorS/vigu-sinuca-arena
+ ## Deploy:https://gustavovitors.github.io/vigu-sinuca-arena/
+ ##
+ 
 ##  ⚠️ Note:This is a repository containing links to all projects mentioned in the repository name. This makes it easier to find, eventually it will be updated when another project related to this repository comes out.
