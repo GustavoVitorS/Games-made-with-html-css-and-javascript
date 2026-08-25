@@ -5,11 +5,6 @@
  ## Deploy: https://gustavovitors.github.io/Jogo-Da-Velha/
  ##
  
-# Jumping Game : 
- ## Repository: https://github.com/GustavoVitorS/Jogo-De-Pular
- ## Deploy: https://gustavovitors.github.io/Jogo-De-Pular/
- ##
- 
 # SnakeGame : 
  ## Repository: https://github.com/GustavoVitorS/SnakeGame
  ## Deploy: https://gustavovitors.github.io/SnakeGame/
