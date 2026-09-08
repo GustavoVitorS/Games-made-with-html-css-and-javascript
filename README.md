@@ -19,5 +19,10 @@
   ## Repository:https://github.com/GustavoVitorS/vigu-sinuca-arena
  ## Deploy:https://gustavovitors.github.io/vigu-sinuca-arena/
  ##
+
+ # Word-search-game
+  ## Repository:https://github.com/GustavoVitorS/Word-search-game
+ ## Deploy:https://gustavovitors.github.io/Word-search-game/
+ ##
  
 ##  ⚠️ Note:This is a repository containing links to all projects mentioned in the repository name. This makes it easier to find, eventually it will be updated when another project related to this repository comes out.
