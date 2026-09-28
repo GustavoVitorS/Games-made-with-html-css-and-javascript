@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/browser-game-collection-banner.png" alt="Browser Game Collection banner" width="100%">
+<img src="./browser-game-collection-banner.png" alt="Browser Game Collection banner" width="100%">
 
 <br>
 <br>
@@ -44,7 +44,7 @@ This repository works as a showcase to explore the latest version of each projec
 
 <div align="center">
 
-<img src="./assets/tic-tac-toe-v2-current.png" alt="Tic-Tac-Toe V2 current screenshot" width="100%">
+<img src="./tic-tac-toe-v2-current.png" alt="Tic-Tac-Toe V2 current screenshot" width="100%">
 
 <br><br>
 
@@ -68,7 +68,7 @@ A strategic and polished version of the classic Tic-Tac-Toe experience, rebuilt 
 
 <div align="center">
 
-<img src="./assets/snakegame-v2.4-current.png" alt="SnakeGame V2.4 current screenshot" width="70%">
+<img src="./snakegame-v2.4-current.png" alt="SnakeGame V2.4 current screenshot" width="70%">
 
 <br><br>
 
@@ -92,7 +92,7 @@ A modern neon reinterpretation of Snake, focused on atmosphere, motion fluidity 
 
 <div align="center">
 
-<img src="./assets/memory-game-2026-current.png" alt="Memory Game 2026 current screenshot" width="100%">
+<img src="./memory-game-2026-current.png" alt="Memory Game 2026 current screenshot" width="100%">
 
 <br><br>
 
@@ -116,7 +116,7 @@ A more premium and elegant memory game experience, redesigned with stronger typo
 
 <div align="center">
 
-<img src="./assets/vigu-sinuca-arena-v11-current.png" alt="VIGU Sinuca Arena V11 current screenshot" width="100%">
+<img src="./vigu-sinuca-arena-v11-current.png" alt="VIGU Sinuca Arena V11 current screenshot" width="100%">
 
 <br><br>
 
@@ -140,7 +140,7 @@ A browser-based pool game with custom gameplay, aiming mechanics and a stronger 
 
 <div align="center">
 
-<img src="./assets/caca-palavras-brasil-v4-current.png" alt="Caça-Palavras Brasil V4 current screenshot" width="100%">
+<img src="./caca-palavras-brasil-v4-current.png" alt="Caça-Palavras Brasil V4 current screenshot" width="100%">
 
 <br><br>
 
