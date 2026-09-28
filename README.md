@@ -22,7 +22,7 @@ This repository works as a showcase to explore the latest version of each projec
 
 <br>
 
-**6 projects • Static deploys • Play directly in the browser**
+**7 projects • Static deploys • Play directly in the browser**
 
 </div>
 
@@ -38,6 +38,7 @@ This repository works as a showcase to explore the latest version of each projec
 | **VIGU Sinuca Arena** | **V11** | [Open Repository](https://github.com/GustavoVitorS/vigu-sinuca-arena) | [Open Deploy](https://gustavovitors.github.io/vigu-sinuca-arena/) |
 | **Caça-Palavras Brasil** | **V4** | [Open Repository](https://github.com/GustavoVitorS/Word-search-game) | [Open Deploy](https://gustavovitors.github.io/Word-search-game/) |
 | **Knights of the Renaissance — Serpent Whip** | **V5.3** | [Open Repository](https://github.com/GustavoVitorS/Knights-of-the-Renaissance-V1.2) | [Open Deploy](https://gustavovitors.github.io/Knights-of-the-Renaissance-V1.2/) |
+| **Black Cat Flap** | **Current Version** | [Open Repository](https://github.com/GustavoVitorS/blackcat-flap-game) | — |
 
 ---
 
@@ -189,6 +190,31 @@ A browser-based action platformer and metroidvania-inspired project with a dark 
 
 ---
 
+## 🐈 Black Cat Flap
+
+<div align="center">
+
+<img src="./black-cat-flap-current.png" alt="Black Cat Flap current screenshot" width="100%">
+
+<br><br>
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoVitorS/blackcat-flap-game)
+
+</div>
+
+A flappy-bird-inspired arcade game with its own personality, centered around a black cat escaping danger while a giant cat chases from the start. The current version adds a stronger identity, clearer rules and temporary power systems that make survival more strategic.
+
+**Highlights**
+- Arcade gameplay inspired by Flappy Bird
+- Black cat protagonist with a custom visual identity
+- Giant cat chaser present from the beginning
+- Temporary power coins with different effects
+- Bite-timing and escape mechanic
+- Lightweight browser gameplay in HTML, CSS and JavaScript
+- Responsive presentation for desktop and mobile
+
+---
+
 ## 🧩 About This Repository
 
 This repository is a **visual collection and access hub** for my browser games.
@@ -214,7 +240,8 @@ Games-made-with-html-css-and-javascript/
     ├── memory-game-2026-current.png
     ├── vigu-sinuca-arena-v11-current.png
     ├── caca-palavras-brasil-v4-current.png
-    └── knights-of-the-renaissance-v5.3-current.png
+    ├── knights-of-the-renaissance-v5.3-current.png
+    └── black-cat-flap-current.png
 ```
 
 ---
