@@ -22,7 +22,7 @@ This repository works as a showcase to explore the latest version of each projec
 
 <br>
 
-**5 projects • Static deploys • Play directly in the browser**
+**6 projects • Static deploys • Play directly in the browser**
 
 </div>
 
@@ -37,6 +37,7 @@ This repository works as a showcase to explore the latest version of each projec
 | **Memory Game** | **2026 Edition** | [Open Repository](https://github.com/GustavoVitorS/Memory-Game) | [Open Deploy](https://gustavovitors.github.io/Memory-Game/) |
 | **VIGU Sinuca Arena** | **V11** | [Open Repository](https://github.com/GustavoVitorS/vigu-sinuca-arena) | [Open Deploy](https://gustavovitors.github.io/vigu-sinuca-arena/) |
 | **Caça-Palavras Brasil** | **V4** | [Open Repository](https://github.com/GustavoVitorS/Word-search-game) | [Open Deploy](https://gustavovitors.github.io/Word-search-game/) |
+| **Knights of the Renaissance — Serpent Whip** | **V5.3** | [Open Repository](https://github.com/GustavoVitorS/Knights-of-the-Renaissance-V1.2) | [Open Deploy](https://gustavovitors.github.io/Knights-of-the-Renaissance-V1.2/) |
 
 ---
 
@@ -160,6 +161,34 @@ A calm and readable Brazilian Portuguese word-search project, redesigned to feel
 
 ---
 
+
+## ⚔️ Knights of the Renaissance — Serpent Whip V5.3
+
+<div align="center">
+
+<img src="./knights-of-the-renaissance-v5.3-current.png" alt="Knights of the Renaissance Serpent Whip V5.3 current screenshot" width="100%">
+
+<br><br>
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoVitorS/Knights-of-the-Renaissance-V1.2)
+[![Deploy](https://img.shields.io/badge/Deploy-d946ef?style=for-the-badge&logo=githubpages&logoColor=white)](https://gustavovitors.github.io/Knights-of-the-Renaissance-V1.2/)
+
+</div>
+
+A browser-based action platformer and metroidvania-inspired project with a dark fantasy identity, platforming, enemies, combat mechanics and an evolving whip-focused gameplay system.
+
+**Highlights**
+- Multi-stage action-platformer gameplay
+- Serpent Whip combat system
+- Jump, aerial movement and enemy-stomp mechanics
+- Shielded enemies and combat interactions
+- HUD with health, resources and score
+- Dark castle environments and boss encounters
+- Desktop browser gameplay with HTML, CSS and JavaScript
+- Continuously evolving gameplay and visual presentation
+
+---
+
 ## 🧩 About This Repository
 
 This repository is a **visual collection and access hub** for my browser games.
@@ -184,7 +213,8 @@ Games-made-with-html-css-and-javascript/
     ├── snakegame-v2.4-current.png
     ├── memory-game-2026-current.png
     ├── vigu-sinuca-arena-v11-current.png
-    └── caca-palavras-brasil-v4-current.png
+    ├── caca-palavras-brasil-v4-current.png
+    └── knights-of-the-renaissance-v5.3-current.png
 ```
 
 ---
