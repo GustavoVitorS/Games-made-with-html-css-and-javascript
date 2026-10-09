@@ -39,7 +39,7 @@ Each project has its own repository, visual identity and playable deployment. Th
 | 🎱 **VIGU Sinuca Arena** | **V11** | [Open Repository](https://github.com/GustavoVitorS/vigu-sinuca-arena) | [Open Deploy](https://gustavovitors.github.io/vigu-sinuca-arena/) |
 | 🔎 **Caça-Palavras Brasil** | **V4** | [Open Repository](https://github.com/GustavoVitorS/Word-search-game) | [Open Deploy](https://gustavovitors.github.io/Word-search-game/) |
 | ⚔️ **Knights of the Renaissance — Serpent Whip** | **V5.3** | [Open Repository](https://github.com/GustavoVitorS/Knights-of-the-Renaissance-V1.2) | [Open Deploy](https://gustavovitors.github.io/Knights-of-the-Renaissance-V1.2/) |
-| 🐈 **Black Cat Flap** | **V3** | [Open Repository](https://github.com/GustavoVitorS/blackcat-flap-game) | — |
+| 🐈 **Black Cat Flap** | **V3** | [Open Repository](https://github.com/GustavoVitorS/blackcat-flap-game) | [Open Deploy](https://gustavovitors.github.io/blackcat-flap-game/) |
 | 🟪 **Jogo de Pular / Jumping Game** | **V3.1** | [Open Repository](https://github.com/GustavoVitorS/Jumping-game) | [Open Deploy](https://gustavovitors.github.io/Jumping-game/) |
 
 ---
