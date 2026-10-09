@@ -9,20 +9,21 @@
 
 ### A central hub for my browser game projects
 
-A curated collection of games built with **HTML5**, **CSS3** and **Vanilla JavaScript**.
-Each game has its own repository, its own playable deployment and its own visual identity.
-This repository works as a showcase to explore the latest version of each project in one place.
+A curated collection of browser games built with **HTML5**, **CSS3** and **Vanilla JavaScript**.
+
+Each project has its own repository, visual identity and playable deployment. This repository works as a central showcase for the latest versions of my games.
 
 <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Canvas](https://img.shields.io/badge/Canvas_2D-111827?style=for-the-badge&logo=html5&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
 
-**7 projects • Static deploys • Play directly in the browser**
+**8 projects • Static deploys • Play directly in the browser**
 
 </div>
 
@@ -32,13 +33,14 @@ This repository works as a showcase to explore the latest version of each projec
 
 | Project | Current Version | Repository | Deploy |
 |:--|:--:|:--:|:--:|
-| **Tic-Tac-Toe** | **V2** | [Open Repository](https://github.com/GustavoVitorS/Jogo-Da-Velha) | [Open Deploy](https://gustavovitors.github.io/Jogo-Da-Velha/) |
-| **SnakeGame — Neon Shift** | **V2.4** | [Open Repository](https://github.com/GustavoVitorS/SnakeGame) | [Open Deploy](https://gustavovitors.github.io/SnakeGame/) |
-| **Memory Game** | **2026 Edition** | [Open Repository](https://github.com/GustavoVitorS/Memory-Game) | [Open Deploy](https://gustavovitors.github.io/Memory-Game/) |
-| **VIGU Sinuca Arena** | **V11** | [Open Repository](https://github.com/GustavoVitorS/vigu-sinuca-arena) | [Open Deploy](https://gustavovitors.github.io/vigu-sinuca-arena/) |
-| **Caça-Palavras Brasil** | **V4** | [Open Repository](https://github.com/GustavoVitorS/Word-search-game) | [Open Deploy](https://gustavovitors.github.io/Word-search-game/) |
-| **Knights of the Renaissance — Serpent Whip** | **V5.3** | [Open Repository](https://github.com/GustavoVitorS/Knights-of-the-Renaissance-V1.2) | [Open Deploy](https://gustavovitors.github.io/Knights-of-the-Renaissance-V1.2/) |
-| **Black Cat Flap** | **Current Version** | [Open Repository](https://github.com/GustavoVitorS/blackcat-flap-game) | [Open Deploy](https://gustavovitors.github.io/blackcat-flap-game/) |
+| ❌⭕ **Tic-Tac-Toe** | **V2** | [Open Repository](https://github.com/GustavoVitorS/Jogo-Da-Velha) | [Open Deploy](https://gustavovitors.github.io/Jogo-Da-Velha/) |
+| 🐍 **SnakeGame — Neon Shift** | **V2.4** | [Open Repository](https://github.com/GustavoVitorS/SnakeGame) | [Open Deploy](https://gustavovitors.github.io/SnakeGame/) |
+| 🧠 **Memory Game** | **2026 Edition** | [Open Repository](https://github.com/GustavoVitorS/Memory-Game) | [Open Deploy](https://gustavovitors.github.io/Memory-Game/) |
+| 🎱 **VIGU Sinuca Arena** | **V11** | [Open Repository](https://github.com/GustavoVitorS/vigu-sinuca-arena) | [Open Deploy](https://gustavovitors.github.io/vigu-sinuca-arena/) |
+| 🔎 **Caça-Palavras Brasil** | **V4** | [Open Repository](https://github.com/GustavoVitorS/Word-search-game) | [Open Deploy](https://gustavovitors.github.io/Word-search-game/) |
+| ⚔️ **Knights of the Renaissance — Serpent Whip** | **V5.3** | [Open Repository](https://github.com/GustavoVitorS/Knights-of-the-Renaissance-V1.2) | [Open Deploy](https://gustavovitors.github.io/Knights-of-the-Renaissance-V1.2/) |
+| 🐈 **Black Cat Flap** | **V3** | [Open Repository](https://github.com/GustavoVitorS/blackcat-flap-game) | — |
+| 🟪 **Jogo de Pular / Jumping Game** | **V3.1** | [Open Repository](https://github.com/GustavoVitorS/Jumping-game) | [Open Deploy](https://gustavovitors.github.io/Jumping-game/) |
 
 ---
 
@@ -79,7 +81,7 @@ A strategic and polished version of the classic Tic-Tac-Toe experience, rebuilt 
 
 </div>
 
-A modern neon reinterpretation of Snake, focused on atmosphere, motion fluidity and arcade readability. Neon Shift adds style and identity while preserving the simplicity of the original concept.
+A modern neon reinterpretation of Snake, focused on atmosphere, motion fluidity and arcade readability.
 
 **Highlights**
 - Neon sci-fi aesthetic
@@ -103,13 +105,13 @@ A modern neon reinterpretation of Snake, focused on atmosphere, motion fluidity 
 
 </div>
 
-A more premium and elegant memory game experience, redesigned with stronger typography, better spacing, clearer HUD elements and a cleaner presentation.
+A premium visual evolution of the original memory game, with clearer feedback, stronger UI hierarchy and a responsive card-grid experience.
 
 **Highlights**
-- Premium black-and-gold presentation
-- Improved readability and UI hierarchy
-- Match counter, moves and timer
-- Responsive card-grid gameplay
+- Black-and-gold visual presentation
+- Improved readability
+- Match, move and timer counters
+- Responsive card grid
 - Direct browser play
 
 ---
@@ -127,14 +129,14 @@ A more premium and elegant memory game experience, redesigned with stronger typo
 
 </div>
 
-A browser-based pool game with custom gameplay, aiming mechanics and a stronger simulation focus. V11 presents a much more mature interface and a more structured match layout.
+A browser-based pool game with custom aiming mechanics, CPU opponents and a responsive interface designed for desktop and mobile gameplay.
 
 **Highlights**
-- Pool gameplay in the browser
-- HUD with turn, force and table status
-- Mouse and mobile aiming interactions
-- Distinct competitive visual identity
-- Playable without installation
+- Browser-based pool gameplay
+- Turn and shot-power HUD
+- Mouse and touch aiming
+- Custom ball physics
+- Responsive presentation
 
 ---
 
@@ -151,17 +153,16 @@ A browser-based pool game with custom gameplay, aiming mechanics and a stronger 
 
 </div>
 
-A calm and readable Brazilian Portuguese word-search project, redesigned to feel lighter, softer and more accessible while keeping the gameplay intuitive and relaxing.
+A calm and readable Brazilian Portuguese word-search project designed for comfortable desktop and mobile play.
 
 **Highlights**
-- Clean and light interface
+- Clean light interface
 - Multiple difficulty options
-- Focused on relaxed gameplay
 - Brazilian Portuguese vocabulary
-- Progress-friendly and browser-based
+- Responsive word grid
+- Progress-friendly gameplay
 
 ---
-
 
 ## ⚔️ Knights of the Renaissance — Serpent Whip V5.3
 
@@ -176,21 +177,20 @@ A calm and readable Brazilian Portuguese word-search project, redesigned to feel
 
 </div>
 
-A browser-based action platformer and metroidvania-inspired project with a dark fantasy identity, platforming, enemies, combat mechanics and an evolving whip-focused gameplay system.
+A browser-based action-platformer with dark-fantasy environments, combat, platforming, enemies and boss encounters.
 
 **Highlights**
 - Multi-stage action-platformer gameplay
 - Serpent Whip combat system
-- Jump, aerial movement and enemy-stomp mechanics
+- Jump and aerial movement
+- Enemy stomp mechanics
 - Shielded enemies and combat interactions
-- HUD with health, resources and score
-- Dark castle environments and boss encounters
-- Desktop browser gameplay with HTML, CSS and JavaScript
-- Continuously evolving gameplay and visual presentation
+- Boss encounters
+- Responsive browser gameplay
 
 ---
 
-## 🐈 Black Cat Flap
+## 🐈 Black Cat Flap — V3
 
 <div align="center">
 
@@ -202,46 +202,120 @@ A browser-based action platformer and metroidvania-inspired project with a dark 
 
 </div>
 
-A flappy-bird-inspired arcade game with its own personality, centered around a black cat escaping danger while a giant cat chases from the start. The current version adds a stronger identity, clearer rules and temporary power systems that make survival more strategic.
+An arcade game inspired by the flap-and-dodge formula, rebuilt around an original Black Cat and a persistent giant-cat chaser.
 
 **Highlights**
-- Arcade gameplay inspired by Flappy Bird
-- Black cat protagonist with a custom visual identity
-- Giant cat chaser present from the beginning
-- Temporary power coins with different effects
-- Bite-timing and escape mechanic
-- Lightweight browser gameplay in HTML, CSS and JavaScript
-- Responsive presentation for desktop and mobile
+- Black Cat protagonist
+- Giant cat follows the player from the beginning
+- Telegraph-based bite / chomp system
+- Temporary power-up coins
+- Pipe obstacle gameplay
+- Responsive desktop and mobile controls
+- HTML5 Canvas rendering
+
+---
+
+## 🟪 Jogo de Pular / Jumping Game — V3.1
+
+<div align="center">
+
+<img src="./jumping-game-v3.1-current.png" alt="Jogo de Pular / Jumping Game V3.1 current screenshot" width="100%">
+
+<br><br>
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoVitorS/Jumping-game)
+[![Deploy](https://img.shields.io/badge/Deploy-c45be8?style=for-the-badge&logo=githubpages&logoColor=white)](https://gustavovitors.github.io/Jumping-game/)
+
+</div>
+
+**Jogo de Pular V3.1** expands the original arcade project into **two different game modes while preserving the same visual identity**.
+
+The player can choose between the endless rhythm of the original-style mode and a vertical platforming challenge focused on climbing, checkpoints and aerial hazards.
+
+### 🎮 Mode 1 — Classic
+
+A horizontal endless-runner experience focused on timing and survival.
+
+- Run continuously through the stage
+- Jump over obstacles
+- Alternate between short and high jumps
+- Chase a higher score
+- Preserve the fast arcade rhythm of the original game
+
+### ⬆️ Mode 2 — Ascension
+
+A vertical platforming mode built around upward progression.
+
+- Climb between suspended platforms
+- Avoid falling blocks and aerial hazards
+- Reach checkpoints as the run progresses
+- Different movement rhythm from Classic Mode
+- Designed as a second challenge without abandoning the original game's identity
+
+### Highlights
+
+- **Two complete game modes**
+- Modern purple / pink arcade interface
+- Responsive desktop and mobile presentation
+- Clear mode-selection screen
+- Dedicated HUD for gameplay
+- Touch-friendly mobile controls
+- Pause / menu support
+- HTML, CSS and Vanilla JavaScript
+- Fully static and GitHub Pages compatible
 
 ---
 
 ## 🧩 About This Repository
 
 This repository is a **visual collection and access hub** for my browser games.
-Instead of mixing all projects into a single codebase, each game remains in its own repository with its own history and deployment.
-This README centralizes everything with:
 
-- a **large featured image** at the top;
-- the **latest screenshot** of each project;
-- the **repository link** for each game;
-- the **deploy link** for each game.
+Instead of mixing all projects into one codebase, each game remains independent with its own repository, development history and deploy.
+
+This README centralizes:
+
+- a **large featured banner**;
+- the **current screenshot** of each project;
+- each project's **repository**;
+- each available **live deploy**;
+- a short description of the gameplay and visual direction.
 
 ---
 
-## 📁 Suggested Structure
+## 🛠️ Main Technologies
+
+<div align="center">
+
+| Technology | Usage |
+|:--:|:--|
+| **HTML5** | Game structure and interface |
+| **CSS3** | Responsive layouts, visual identity and HUD styling |
+| **Vanilla JavaScript** | Gameplay systems and interaction |
+| **Canvas 2D** | Real-time rendering in selected projects |
+| **Web Audio API** | Lightweight browser sound effects in selected games |
+| **localStorage** | Scores, progress and preferences |
+| **GitHub Pages** | Static browser deployment |
+
+</div>
+
+---
+
+## 📁 Repository Structure
+
+If you keep the screenshots directly in the repository root, the structure can remain simple:
 
 ```text
 Games-made-with-html-css-and-javascript/
 ├── README.md
-└── assets/
-    ├── browser-game-collection-banner.png
-    ├── tic-tac-toe-v2-current.png
-    ├── snakegame-v2.4-current.png
-    ├── memory-game-2026-current.png
-    ├── vigu-sinuca-arena-v11-current.png
-    ├── caca-palavras-brasil-v4-current.png
-    ├── knights-of-the-renaissance-v5.3-current.png
-    └── black-cat-flap-current.png
+├── browser-game-collection-banner.png
+├── tic-tac-toe-v2-current.png
+├── snakegame-v2.4-current.png
+├── memory-game-2026-current.png
+├── vigu-sinuca-arena-v11-current.png
+├── caca-palavras-brasil-v4-current.png
+├── knights-of-the-renaissance-v5.3-current.png
+├── black-cat-flap-current.png
+└── jumping-game-v3.1-current.png
 ```
 
 ---
@@ -250,9 +324,13 @@ Games-made-with-html-css-and-javascript/
 
 ## 👨‍💻 Gustavo Vitor
 
-**Browser Games • Front-End • Vanilla JavaScript**
+**Browser Games • Front-End Development • Vanilla JavaScript**
+
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-GustavoVitorS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoVitorS)
+
+<br>
 
 **Code • Play • Improve • Repeat**
 
