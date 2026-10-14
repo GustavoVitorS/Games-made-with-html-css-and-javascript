@@ -332,6 +332,4 @@ Games-made-with-html-css-and-javascript/
 
 <br>
 
-**Code • Play • Improve • Repeat**
-
 </div>
