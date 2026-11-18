@@ -298,12 +298,7 @@ This README centralizes:
 
 </div>
 
----
-```
 
----
-
-<div align="center">
 
 ## 👨‍💻 Gustavo Vitor
 
