@@ -299,23 +299,6 @@ This README centralizes:
 </div>
 
 ---
-
-## 📁 Repository Structure
-
-If you keep the screenshots directly in the repository root, the structure can remain simple:
-
-```text
-Games-made-with-html-css-and-javascript/
-├── README.md
-├── browser-game-collection-banner.png
-├── tic-tac-toe-v2-current.png
-├── snakegame-v2.4-current.png
-├── memory-game-2026-current.png
-├── vigu-sinuca-arena-v11-current.png
-├── caca-palavras-brasil-v4-current.png
-├── knights-of-the-renaissance-v5.3-current.png
-├── black-cat-flap-v3-current-20261009.png
-└── jumping-game-v3.1-current.png
 ```
 
 ---
