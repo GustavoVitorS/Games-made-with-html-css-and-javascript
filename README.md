@@ -297,17 +297,3 @@ This README centralizes:
 | **GitHub Pages** | Static browser deployment |
 
 </div>
-
-
-
-## 👨‍💻 Gustavo Vitor
-
-**Browser Games • Front-End Development • Vanilla JavaScript**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-GustavoVitorS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoVitorS)
-
-<br>
-
-</div>
